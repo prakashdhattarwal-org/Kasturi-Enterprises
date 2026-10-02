@@ -1,0 +1,6 @@
+{
+  "name": "Kasturi Enterprises - Scientific Equipment & Chemical Supplier",
+  "description": "Authorized supplier of premium scientific equipment, laboratory chemicals, analytical instruments, and borosilicate glassware in Pune, Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

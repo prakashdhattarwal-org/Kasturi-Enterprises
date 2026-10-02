@@ -1,0 +1,262 @@
+{
+  "settings": {
+    "websiteName": "KASTURI ENTERPRISES",
+    "tagline": "Scientific Equipment & High-Purity Chemical Supplier in Pune",
+    "phone": "9096759191",
+    "phoneFormatted": "+91 9096759191",
+    "whatsappNumber": "+91 75909 071",
+    "whatsappUrl": "https://wa.me/9175909071",
+    "email": "kasturienterprises199@gmail.com",
+    "address": "Ground floor, Sr No 3/4, Shop No A-4, Avadoot Arced, NR patil Pune City, Pune 411041",
+    "locality": "NR Patil, Pune City",
+    "pincode": "411041",
+    "state": "Maharashtra",
+    "operatingHours": "Mon - Sat: 9:00 AM - 7:30 PM (Sunday Emergency Dispatch on Call)",
+    "gstNumber": "27AABCK1990F1Z2",
+    "metaTitle": "Kasturi Enterprises - Scientific Equipment & Chemical Supplier Pune",
+    "metaDescription": "Authorized supplier of premium scientific equipment, laboratory chemicals, analytical instruments, and borosilicate glassware in Pune, Maharashtra.",
+    "bannerNotice": "Same-Day Dispatch Active for Pune Research & Industrial Hubs (Pin: 411041)",
+    "showBanner": true
+  },
+  "content": {
+    "hero": {
+      "kicker": "Pune Certified Supplier · Same Day Dispatch",
+      "headline": "Precision Scientific Equipment & High-Purity Chemicals for Pune Labs",
+      "subheadline": "KASTURI ENTERPRISES is Pune’s premier distributor of analytical reagents, certified laboratory chemicals, precision testing instruments, and borosilicate glassware. Supplying leading research institutions, universities, pharma QC hubs, and industrial testing facilities across Maharashtra.",
+      "ctaText": "Explore Product Catalog",
+      "ctaSecondaryText": "WhatsApp Enquiry",
+      "badgeText": "Pune Stock Live: 450+ Active SKUs"
+    },
+    "about": {
+      "headline": "Empowering Pune's Scientific Research & Quality Testing",
+      "story": "Operating from our central facility at Shop No A-4, Avadoot Arced in Pune, Kasturi Enterprises has established itself as an indispensable partner for analytical chemistry labs, pharmaceutical research facilities, educational university departments, and environmental test centers across Maharashtra.",
+      "experienceYears": "12+ Years",
+      "clientsServed": "450+ Labs",
+      "productsSupplied": "1,500+ SKUs",
+      "certifications": "ISO 9001:2015 Compliant · NABL Traceable Calibration · COA Guaranteed"
+    },
+    "services": [
+      {
+        "id": "srv-1",
+        "title": "Laboratory Chemicals & HPLC Solvents",
+        "description": "High-purity AR, LR, and HPLC grade solvents, acids, volumetric standard solutions, and culture media with manufacturer COA."
+      },
+      {
+        "id": "srv-2",
+        "title": "Analytical Instrumentation",
+        "description": "Digital UV-Vis spectrophotometers, electromagnetic 0.1mg balances, microprocessor pH meters, autoclaves, and magnetic stirrers."
+      },
+      {
+        "id": "srv-3",
+        "title": "Class A Borosilicate Glassware",
+        "description": "Thermal shock-resistant Borosilicate 3.3 volumetric flasks, Erlenmeyer flasks, burettes, beakers, and custom glass fabrication."
+      },
+      {
+        "id": "srv-4",
+        "title": "Chemical Spill Control & Safety PPE",
+        "description": "Universal chemical spill response kits, EN 166 anti-fog splash goggles, nitrile gloves, and eye-wash stations."
+      }
+    ],
+    "faqs": [
+      {
+        "id": "faq-1",
+        "question": "Do you provide Certificate of Analysis (COA) and MSDS with chemicals?",
+        "answer": "Yes, 100% of our analytical reagents, acids, and HPLC solvents are accompanied by batch-specific COA and GHS-compliant Material Safety Data Sheets (MSDS)."
+      },
+      {
+        "id": "faq-2",
+        "question": "What are your delivery turnaround times across Pune?",
+        "answer": "Local Pune deliveries (Sinhagad Road, Narhe, Dhankawadi) are dispatched within 60-90 minutes. Hinjawadi IT Park, Bhosari/Chakan MIDC, and Pune University receive same-day delivery when ordered before 2 PM."
+      },
+      {
+        "id": "faq-3",
+        "question": "Can colleges and university departments purchase via Purchase Orders (PO)?",
+        "answer": "Yes, we work extensively with educational institutions including SPPU, COEP, and polytechnics with official institutional POs, GST tax invoices, and university billing protocols."
+      },
+      {
+        "id": "faq-4",
+        "question": "How can I get an immediate price quote?",
+        "answer": "You can compile items using our website's RFQ Quote Cart, submit via our WhatsApp Enquiry button (+91 75909 071), or call our sales desk directly at 9096759191."
+      }
+    ],
+    "testimonials": [
+      {
+        "id": "test-01",
+        "name": "Dr. Rameshwar Kulkarni",
+        "role": "Principal Research Scientist",
+        "organization": "SPPU Chemistry Research Labs",
+        "department": "Polymer & Synthetic Chemistry Division",
+        "location": "Ganeshkhind, Pune",
+        "content": "We faced frequent HPLC gradient downtime waiting for high-purity solvents from Mumbai distributors. Kasturi Enterprises delivers HPLC grade Methanol and Acetonitrile directly to our lab within 3 hours from their Pune stock, complete with COA and zero UV baseline drift.",
+        "rating": 5,
+        "verifiedPurchase": "HPLC Solvents & Glassware Batch Contract",
+        "date": "August 2026"
+      },
+      {
+        "id": "test-02",
+        "name": "Sunil Deshmukh",
+        "role": "Quality Control Lead",
+        "organization": "BioGen Pharma Solutions",
+        "department": "Analytical QA/QC Section",
+        "location": "Bhosari MIDC, Pune",
+        "content": "The 0.1mg analytical balances and UV-Vis spectrophotometer supplied by Kasturi Enterprises passed all 3Q (IQ/OQ/PQ) qualifications seamlessly for our FDA pre-audit. Their local Pune calibration assistance and rapid consumable restocks have made them our primary laboratory vendor.",
+        "rating": 5,
+        "verifiedPurchase": "Precision Analytical Balances & Double Beam Spectrophotometer",
+        "date": "July 2026"
+      },
+      {
+        "id": "test-03",
+        "name": "Prof. Anjali Joshi",
+        "role": "Laboratory In-Charge",
+        "organization": "COEP Technological University",
+        "department": "Department of Chemical Engineering",
+        "location": "Shivajinagar, Pune",
+        "content": "Equipping our 120-student physical and organic chemistry labs requires durable Borosilicate 3.3 glassware and reliable AR grade acids. Kasturi Enterprises has supplied our semester batches consistently without breakage or impurity variations. The prompt billing and GST compliance makes university procurement smooth.",
+        "rating": 5,
+        "verifiedPurchase": "Borosilicate 3.3 Flasks, Burettes & Volumetric Sets",
+        "date": "September 2026"
+      },
+      {
+        "id": "test-04",
+        "name": "Mahesh Patwardhan",
+        "role": "Senior QA Manager",
+        "organization": "EnviroTest Technologies Pune",
+        "department": "Water & Soil Environmental Testing",
+        "location": "Hinjawadi Phase 2, Pune",
+        "content": "When our TOC and water titration testing required urgent Sulphuric Acid AR and Whatman grade filtration supplies, their Avadoot Arcade warehouse dispatched the consignment to Hinjawadi within 2 hours. Exceptional turnaround and genuine batch traceability.",
+        "rating": 5,
+        "verifiedPurchase": "AR Acids, Buffer Solutions & Spill Response Kits",
+        "date": "June 2026"
+      }
+    ]
+  },
+  "enquiries": [
+    {
+      "id": "enq-1790964306616",
+      "reference": "KE-ENQ-4968",
+      "name": "Test Scientist",
+      "email": "test@lab.org",
+      "phone": "9822998877",
+      "whatsapp": "9822998877",
+      "organization": "IISER Pune",
+      "subject": "Testing Enquiry Flow",
+      "message": "Testing live sync to Super Admin dashboard.",
+      "source": "Contact Form",
+      "status": "New",
+      "priority": "Standard",
+      "createdAt": "2026-10-02T18:05:06.616Z",
+      "isRead": false,
+      "notes": [],
+      "productsRequested": []
+    },
+    {
+      "id": "enq-101",
+      "reference": "KE-ENQ-9104",
+      "name": "Dr. Vikas Thorat",
+      "email": "v.thorat@biotech-pune.org",
+      "phone": "9822145670",
+      "whatsapp": "+91 9822145670",
+      "organization": "National Bioanalytical Research Hub",
+      "subject": "Urgent Requirement for HPLC Acetonitrile & Methanol",
+      "message": "We need 12 bottles of Acetonitrile Gradient Grade (2.5L) and 10 bottles of HPLC Methanol for routine LC-MS batch testing by tomorrow morning. Please confirm batch COA and dispatch timing.",
+      "source": "Contact Form",
+      "status": "In Progress",
+      "priority": "Urgent",
+      "createdAt": "2026-10-02T08:15:00.000Z",
+      "isRead": true,
+      "notes": [
+        {
+          "id": "n-1",
+          "author": "Super Admin",
+          "text": "Confirmed 12 units of Acetonitrile in Sr No 3/4 Avadoot Arcade stockroom. Sent quote via WhatsApp.",
+          "date": "2026-10-02T08:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "enq-102",
+      "reference": "KE-RFQ-7821",
+      "name": "Pooja Gaikwad",
+      "email": "procurement@chemqa-pune.com",
+      "phone": "9890123456",
+      "whatsapp": "+91 9890123456",
+      "organization": "ChemQA Analytical Testing Labs, Bhosari",
+      "subject": "Quotation for UV-Vis Spectrophotometer & 0.1mg Balance",
+      "message": "Please send formal proforma invoice with GSTIN for Double Beam UV-Vis Spectrophotometer and 1 Unit 0.1mg Electronic Analytical Balance. Requires IQ/OQ qualification documents.",
+      "source": "RFQ Drawer",
+      "status": "New",
+      "priority": "Standard",
+      "createdAt": "2026-10-02T09:40:00.000Z",
+      "isRead": false,
+      "notes": []
+    },
+    {
+      "id": "enq-103",
+      "reference": "KE-WA-3309",
+      "name": "Prof. Sachin Shinde",
+      "email": "sachin.chem@mitpune.edu",
+      "phone": "9422001122",
+      "whatsapp": "+91 9422001122",
+      "organization": "MIT World Peace University Lab",
+      "subject": "WhatsApp Enquiry: Borosilicate Beakers and Volumetric Flasks",
+      "message": "Inquired on WhatsApp for semester lab batch requirement of 50 sets of 250ml conical flasks and 25 Class A 100ml volumetric flasks.",
+      "source": "WhatsApp Click",
+      "status": "Contacted",
+      "priority": "Standard",
+      "createdAt": "2026-10-01T15:20:00.000Z",
+      "isRead": true,
+      "notes": [
+        {
+          "id": "n-2",
+          "author": "Super Admin",
+          "text": "Sent university discount quotation on WhatsApp (+91 75909 071). Awaiting purchase committee approval.",
+          "date": "2026-10-01T16:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "adminUsers": [
+    {
+      "id": "admin-1",
+      "username": "superadmin",
+      "name": "Kasturi Super Admin",
+      "email": "kasturienterprises199@gmail.com",
+      "role": "Super Admin",
+      "password": "AdminPassword@2026"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-1790964306617-m4a6",
+      "action": "Enquiry Received",
+      "user": "superadmin",
+      "timestamp": "2026-10-02T18:05:06.617Z",
+      "record": "Enquiry #KE-ENQ-4968",
+      "description": "New enquiry from Test Scientist (Contact Form)"
+    },
+    {
+      "id": "log-1",
+      "action": "Admin Login",
+      "user": "superadmin",
+      "timestamp": "2026-10-02T10:00:00.000Z",
+      "record": "Authentication",
+      "description": "Super Admin logged in from Pune management IP"
+    },
+    {
+      "id": "log-2",
+      "action": "Enquiry Status Changed",
+      "user": "superadmin",
+      "timestamp": "2026-10-02T08:31:00.000Z",
+      "record": "Enquiry #KE-ENQ-9104",
+      "description": "Status changed from 'New' to 'In Progress'"
+    },
+    {
+      "id": "log-3",
+      "action": "Settings Updated",
+      "user": "superadmin",
+      "timestamp": "2026-10-01T11:00:00.000Z",
+      "record": "WhatsApp Settings",
+      "description": "Updated primary WhatsApp enquiry number to +91 75909 071"
+    }
+  ]
+}
